@@ -11,7 +11,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: "Place holder",
+  title: "LAW",
   description: "created by law",
 };
 
